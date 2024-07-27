@@ -13,6 +13,6 @@ Public Sub rng_B2()
 End Sub
 
 Private Function fn_hello()
-  fn_hello = "hello miero"
+  fn_hello = "hello miero modify"
 
 End Function
